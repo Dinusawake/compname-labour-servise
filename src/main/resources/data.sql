@@ -1,0 +1,1 @@
+insert into labours values("DINESH","SAWAKE",9657476710,10000,"KHARADI","WASHIM",1000,1,"O","dines@gmail.com");

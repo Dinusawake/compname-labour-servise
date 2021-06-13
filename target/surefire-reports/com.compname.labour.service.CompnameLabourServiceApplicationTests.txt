@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.compname.labour.service.CompnameLabourServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.08 s - in com.compname.labour.service.CompnameLabourServiceApplicationTests
